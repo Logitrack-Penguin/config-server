@@ -10,6 +10,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Logitrack-Penguin/config-server
+          uri: https://github.com/Logitrack-Penguin/config-ms
           clone-on-start: true
           default-label: main
